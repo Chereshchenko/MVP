@@ -15,4 +15,5 @@
 </ul>
 
 <h3>Надеюсь вам понравится мой верный помощник!</h3>
-<img scr="[https://www.google.com/search?q=%D0%BC%D0%B8%D0%BB%D0%B0%D1%8F+%D0%BA%D1%80%D1%8B%D1%81%D0%B0+cgbn&sca_esv=fd502329e85da6f5&udm=2&biw=1470&bih=831&sxsrf=ADLYWIImslyn7UgpiD_FJ6gShzpXZ0Emmw%3A1734217516834&ei=LA9eZ6TQMpTIwPAPtvqzyQw&ved=0ahUKEwiklrfYr6iKAxUUJBAIHTb9LMkQ4dUDCBE&uact=5&oq=%D0%BC%D0%B8%D0%BB%D0%B0%D1%8F+%D0%BA%D1%80%D1%8B%D1%81%D0%B0+cgbn&gs_lp=EgNpbWciGtC80LjQu9Cw0Y8g0LrRgNGL0YHQsCBjZ2JuMgQQIxgnSNALUJUDWIYJcAF4AJABAJgBQKABiwKqAQE1uAEDyAEA-AEBmAIGoAKWAsICBhAAGAcYHsICBRAAGIAEwgIIEAAYBxgKGB7CAgQQABgewgIGEAAYBRgemAMAiAYBkgcBNqAHshM&sclient=img#imgrc=-RwwMpbSwOieFM&imgdii=68MKEQBZf1-f1M](https://s9.travelask.ru/system/images/files/001/532/637/wysiwyg_jpg/Legalize-Rats-twitter-628dedd775001__700.jpg?1653852308)">
+<img src="https://www.ferra.ru/thumb/1720x0/filters:quality(75):no_upscale()/imgs/2023/01/08/09/5744469/b7034597cd7b335d66426898af784527c391c412.png" height="200" width="200" alt="Я крыса">
+
