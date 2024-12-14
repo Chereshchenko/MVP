@@ -15,5 +15,5 @@
 </ul>
 
 <h3>Надеюсь вам понравится мой верный помощник!</h3>
-<img src="https://www.ferra.ru/thumb/1720x0/filters:quality(75):no_upscale()/imgs/2023/01/08/09/5744469/b7034597cd7b335d66426898af784527c391c412.png" height="200" width="200" alt="Я крыса">
+<img src="[6426898af784527c391c412.png](https://travelask.ru/blog/posts/39399-kospley-memy-i-igry-12-fotografiy-pokazyvayuschih-chem-mozhn)" height="200" width="200" alt="Я крыса">
 
